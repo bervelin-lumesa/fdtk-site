@@ -1,5 +1,5 @@
-baseURL: https://examplesite.com
-title: Meghna
+baseURL: https://fdtk.netlify.app
+title: fdtk
 theme: meghna-hugo
 paginate: '6'
 summaryLength: '15'
