@@ -1,16 +1,16 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About Us
+  title : Nous
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : Créativité
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Dynamisme
+    content : Grâce à des formations en interne, le FDTK maintient un dynamisme au sein de son personnel qui s’adapte à toutes les technologies nouvelles en matière de collecte, gestion et d’analyses.
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
     title : Professionnalisme
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content : Nous nous engageons à fournir un travail de qualité avec un niveau de professionnalisme élevé. Ceci est rendu possible grâce à son personnel qualifié, travaillant avec dévouement et appliquant des méthodes et techniques statistiques scientifiquement éprouvées.
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : Ecoute
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Respect des engagements
+    content : Conscient de l’importance des relations entre parties prenantes, FDTK traite tous ces partenaires avec respect et opte pour le strict respect des engagements tenus entre parties prenantes.
