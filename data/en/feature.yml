@@ -4,7 +4,7 @@ feature:
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
   title : Nous sommes une entreprise du Numérique et de la Data.
-  content : "Nous vous offrons une gamme variée de services dans le domaine de la gestion et analyse de données, création des programmes de bases de données, application de collecte de données et bien autres."
+  content : "Nous vous offrons une gamme variée de services dans le domaine de la gestion et analyse de données, création des de bases de données, application de collecte de données et bien autres."
   feature_item : 
       # feature item loop
     - title : Formations

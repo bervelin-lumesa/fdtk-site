@@ -12,7 +12,7 @@ params:
     expire_days: 2
   description: Responsive Multipurpose Parallax Hugo Template
   google_analytics_id: ''
- # logo: images/logoXXXXXXXXXXXXXXXXXXXXX.png
+  logo: images/logoXXXXXXXXXXXXXXXXXXXXX.png
   map:
     enable: no
     gmap_api: https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ
@@ -76,11 +76,11 @@ Languages:
 #          weight: 5
 #        - name: Formations
 #          url: '#blog'
-          weight: 6
+#          weight: 6
         - name: Contacts
           url: '#contact'
           weight: 7
 #        - name: themefisher
 #          url: https://themefisher.com/
 #          weight: 8
-    weight: 1
+#    weight: 1
