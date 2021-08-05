@@ -5,15 +5,15 @@ service:
   service_item :
     # service item loop
     - name : Gestion et analyse de données
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
       content : En vue d'obtenir des données fiables et cohérentes, nous vous assistons dans la gestion et l'analyse lors de vos différentes études.
       
     # service item loop
     - name : Echantillonnage
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      icon : ti-settings # themify icon pack : https://themify.me/themify-icons
       content : Pour vos différentes projets, nous vous assistons dans la conception des méthodologies de collecte de données.
            
     # service item loop
     - name : Formations
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
       content : Pour des entreprises ou des particuliers, nous vous offrons des formations sur mesure dans le domaine de la gestion et analyse de données.
