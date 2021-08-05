@@ -47,10 +47,7 @@ params:
       link: '#'
     - icon: ti-linkedin
       link: '#'
-    - icon: ti-dribbble
-      link: '#'
-    - icon: ti-pinterest
-      link: '#'
+
 Languages:
   en:
     contentDir: content/english
