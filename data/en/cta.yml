@@ -4,7 +4,7 @@ cta:
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
   title : "Un travail de qualité avec un niveau de professionnalisme très élevé"
-  content : "Toujours prêt pour répondre à vos attentes adns la domaine de la Data."
+  content : "Toujours prêt pour répondre à vos attentes dans le domaine de la Data."
   button:
     enable : true
     label : "Commencez un projet avec nous"

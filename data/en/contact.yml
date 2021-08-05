@@ -3,7 +3,7 @@ contact:
   enable : true
   title : Contactez-nous
   subtitle : Toujours à votre écoute...
-  content : Nous sommes disponible pour répondre à vos demandes dans un bref délai.
+  content : Nous sommes disponibles pour répondre à vos demandes dans un bref délai.
 
   # Contact details
   contact_list:
