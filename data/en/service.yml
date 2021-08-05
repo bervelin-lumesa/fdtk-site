@@ -6,24 +6,14 @@ service:
     # service item loop
     - name : Gestion et analyse de données
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, cilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : En vue d'obtenir des données fiables et cohérentes, nous vous assistons dans la gestion et l'analyse lors de vos différentes études.
       
     # service item loop
-    - name : Apurement de données
+    - name : Echantillonnage
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Pour vos différentes projets, nous vous assistons dans la conception des méthodologies de collecte de données.
            
     # service item loop
     - name : Formations
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Developpement applications
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictllus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Création des sites web
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Pour des entreprises ou des particuliers, nous vous offrons des formations sur mesure dans le domaine de la gestion et analyse de données.

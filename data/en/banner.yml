@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "From Data To Knowledge"
-  content : "Avec vos données et nos algorithmes, nous prévoyons l'avenir de votre entreprise pour une prise de décision éclectique."
+  content : "Avec vos données et nos algorithmes, nous vous assistons dans la prise de décisions."
   button:
     enable : true
     label : "Nous découvrir..."

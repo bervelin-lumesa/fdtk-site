@@ -11,16 +11,13 @@ skill:
       percent : 95%
       
     # skill item loop
-    - name :  Apurement de données
+    - name :  Echantillonnage
       percent : 90%
       
     # skill item loop
     - name :  Formations
       percent : 80%
       
-    - name :  Developpement d'applications
-      percent : 50%
-      
     # skill item loop
-    - name :  Création des sites web
-      percent : 50%
+    - name :  Collecte mobile
+      percent : 90%

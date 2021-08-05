@@ -65,18 +65,12 @@ Languages:
         - name: Services
           url: '#services'
           weight: 2
-        - name: Projets
-          url: '#portfolio'
-          weight: 3
-        - name: Equipe
-          url: '#team'
-          weight: 4
-#        - name: pricing
-#          url: '#pricing'
-#          weight: 5
-#        - name: Formations
-#          url: '#blog'
-#          weight: 6
+#        - name: Projets
+#          url: '#portfolio'
+#          weight: 3
+#        - name: Equipe
+#          url: '#team'
+#          weight: 4
         - name: Contacts
           url: '#contact'
           weight: 7
