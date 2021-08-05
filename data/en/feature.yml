@@ -8,20 +8,20 @@ feature:
   feature_item : 
       # feature item loop
     - title : Formations
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
       content : En gestion et analyse de données, programmation, création de bases de données, monitoring des opérations de collecte de données
       
       # feature item loop
     - title : Analyse de donnéees
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
       content : Mise en valeur de données par l'analyse descriptive, inférencielle et prédictive (scoring, segmentation...).
 
       # feature item loop
     - title : Contrôle qualité de donnéees
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      icon : ti-server # themify icon pack : https://themify.me/themify-icons
       content : Nous vous accompagnons dans l'écriture des programmes d'apurement de données.
       
       # feature item loop
     - title : Collecte mobile
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      icon : ti-pencil # themify icon pack : https://themify.me/themify-icons
       content : Conception des formulaires électroniques pour une collecte de données efficace et efficiente. Avec des appli telles que CSPro, ODK, KOBO, SurveyCTO,...

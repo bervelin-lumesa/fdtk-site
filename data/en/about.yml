@@ -3,7 +3,7 @@ about:
   enable : true
   title : Nous
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-reload # themify icon pack : https://themify.me/themify-icons
     title : Dynamisme
     content : Grâce à des formations en interne, le FDTK maintient un dynamisme au sein de son personnel qui s’adapte à toutes les technologies nouvelles en matière de collecte, gestion et d’analyses.
 
