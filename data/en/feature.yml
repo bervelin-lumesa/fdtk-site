@@ -23,5 +23,5 @@ feature:
       
       # feature item loop
     - title : Collecte mobile
-      icon : ti-pencil # themify icon pack : https://themify.me/themify-icons
+      icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       content : Conception des formulaires électroniques pour une collecte de données efficace et efficiente. Avec des appli telles que CSPro, ODK, KOBO, SurveyCTO,...
