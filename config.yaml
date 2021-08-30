@@ -40,7 +40,7 @@ params:
     preloader: images/logo.png
   social:
     - icon: ti-facebook
-      link: '#'
+      link: https://web.facebook.com/fromdatatoknowledge
     - icon: ti-twitter-alt
       link: '#'
     - icon: ti-youtube
