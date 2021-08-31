@@ -11,7 +11,7 @@ params:
     enable: yes
     expire_days: 2
   description: cabinet spécialisé dans le domaine de la Data. Nous fournissons des services sur la collecte, gestion, analyse de données ainsi que des formations sur mesure.
-  google_analytics_id: ''
+  google_analytics_id: 'G-YE5DYXJM87'
   logo: images/logo.png
   map:
     enable: no
